@@ -5,7 +5,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# <Tên của bạn>
+# Trịnh Việt Dương
 
 # Input:
 # p, principal amount
